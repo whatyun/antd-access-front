@@ -55,7 +55,7 @@
 
 3.创建页面 pages 下面 创建文件夹  index.tsx   里面 添加组件 以及 组件属性   request 读数据 mock 里定义api函数 就要 services 里创建一个链接函数  注意异步
 
-
+5.servoces Api 里定义 type  添加组件  看源码 复制
 
 
 
