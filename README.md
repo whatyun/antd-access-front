@@ -53,6 +53,8 @@
 
 2.umi 增加页面  routes.ts路由里添加页面  menu 里 添加菜单
 
+3.创建页面 pages 下面 创建文件夹  index.tsx   里面 添加组件 以及 组件属性   request 读数据 就要 services 里创建一个链接函数  注意异步
+
 
 
 
